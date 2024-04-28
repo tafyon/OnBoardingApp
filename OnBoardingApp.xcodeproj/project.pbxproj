@@ -11,6 +11,7 @@
 		1E8E32B42BDDC51B0008D7CA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E8E32B32BDDC51B0008D7CA /* ContentView.swift */; };
 		1E8E32B62BDDC51D0008D7CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E8E32B52BDDC51D0008D7CA /* Assets.xcassets */; };
 		1E8E32B92BDDC51D0008D7CA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E8E32B82BDDC51D0008D7CA /* Preview Assets.xcassets */; };
+		1E8E32C02BDDD7570008D7CA /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E8E32BF2BDDD7570008D7CA /* SplashScreenView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		1E8E32B32BDDC51B0008D7CA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1E8E32B52BDDC51D0008D7CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1E8E32B82BDDC51D0008D7CA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1E8E32BF2BDDD7570008D7CA /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				1E8E32B12BDDC51B0008D7CA /* OnBoardingAppApp.swift */,
 				1E8E32B32BDDC51B0008D7CA /* ContentView.swift */,
+				1E8E32BF2BDDD7570008D7CA /* SplashScreenView.swift */,
 				1E8E32B52BDDC51D0008D7CA /* Assets.xcassets */,
 				1E8E32B72BDDC51D0008D7CA /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				1E8E32B42BDDC51B0008D7CA /* ContentView.swift in Sources */,
 				1E8E32B22BDDC51B0008D7CA /* OnBoardingAppApp.swift in Sources */,
+				1E8E32C02BDDD7570008D7CA /* SplashScreenView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
